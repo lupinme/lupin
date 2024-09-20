@@ -44,7 +44,7 @@ export default function Layout({
               />
               <Text className="text-center">
                 <Link
-                  href="https://www.lupin.me"
+                  href="https://blog.lupin.me"
                   className="text-zinc-700 underline"
                 >
                   <strong>LUPIN ME</strong>
@@ -54,28 +54,28 @@ export default function Layout({
               </Text>
               <Text className="text-center">
                 <Link
-                  href="https://www.lupin.me/twitter"
+                  href="https://blog.lupin.me/twitter"
                   className="text-xs text-zinc-600 underline"
                 >
                   Twitter
                 </Link>{' '}
                 |&nbsp;
                 <Link
-                  href="https://www.lupin.me/youtube"
+                  href="https://blog.lupin.me/youtube"
                   className="text-xs text-zinc-600 underline"
                 >
                   YouTube
                 </Link>{' '}
                 |&nbsp;
                 <Link
-                  href="https://www.lupin.me/github"
+                  href="https://blog.lupin.me/github"
                   className="text-xs text-zinc-600 underline"
                 >
                   GitHub
                 </Link>{' '}
                 |&nbsp;
                 <Link
-                  href="https://www.lupin.me/bilibili"
+                  href="https://blog.lupin.me/bilibili"
                   className="text-xs text-zinc-600 underline"
                 >
                   哔哩哔哩
