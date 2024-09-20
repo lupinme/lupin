@@ -40,7 +40,7 @@ export const metadata: Metadata = {
     siteName: 'LUPIN ME',
     locale: 'zh_CN',
     type: 'website',
-    url: 'https://www.lupin.me',
+    url: 'https://blog.lupin.me',
   },
   twitter: {
     site: '@thecalicastle',
