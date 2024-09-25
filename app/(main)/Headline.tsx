@@ -99,27 +99,27 @@ export function Headline() {
         }}
       >
         <SocialLink
-          href="https://blog.lupin.me/twitter"
+          href="https://lupin.me/twitter"
           aria-label="我的推特"
           platform="twitter"
         />
         <SocialLink
-          href="https://blog.lupin.me/youtube"
+          href="https://lupin.me/youtube"
           aria-label="我的 YouTube"
           platform="youtube"
         />
         <SocialLink
-          href="https://blog.lupin.me/bilibili"
+          href="https://lupin.me/bilibili"
           aria-label="我的 Bilibili"
           platform="bilibili"
         />
         <SocialLink
-          href="https://blog.lupin.me/github"
+          href="https://lupin.me/github"
           aria-label="我的 GitHub"
           platform="github"
         />
         <SocialLink
-          href="https://blog.lupin.me/tg"
+          href="https://lupin.me/tg"
           aria-label="我的 Telegram"
           platform="telegram"
         />
