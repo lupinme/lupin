@@ -99,33 +99,33 @@ export function Headline() {
         }}
       >
         <SocialLink
-          href="https://lupin.me/twitter"
+          href="https://aliyun.blog/twitter"
           aria-label="我的推特"
           platform="twitter"
         />
         <SocialLink
-          href="https://lupin.me/youtube"
+          href="https://aliyun.blog/youtube"
           aria-label="我的 YouTube"
           platform="youtube"
         />
         <SocialLink
-          href="https://lupin.me/bilibili"
+          href="https://aliyun.blog/bilibili"
           aria-label="我的 Bilibili"
           platform="bilibili"
         />
         <SocialLink
-          href="https://lupin.me/github"
+          href="https://aliyun.blog/github"
           aria-label="我的 GitHub"
           platform="github"
         />
         <SocialLink
-          href="https://lupin.me/tg"
+          href="https://aliyun.blog/tg"
           aria-label="我的 Telegram"
           platform="telegram"
         />
         <SocialLink href="/feed.xml" platform="rss" aria-label="RSS 订阅" />
         <SocialLink
-          href="mailto:hi@lupin.me"
+          href="mailto:hi@aliyun.blog"
           aria-label="我的邮箱"
           platform="mail"
         />

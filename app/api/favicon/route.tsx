@@ -13,13 +13,13 @@ function getKey(url: string) {
 
 const faviconMapper: { [key: string]: string } = {
   '((?:zolplay.cn)|(?:zolplay.com)|(?:cn.zolplay.com))':
-    'https://lupin.me/favicons/zolplay.png',
-  '(?:github.com)': 'https://lupin.me/favicons/github.png',
+    'https://aliyun.blog/favicons/zolplay.png',
+  '(?:github.com)': 'https://aliyun.blog/favicons/github.png',
   '((?:t.co)|(?:twitter.com)|(?:x.com))':
-    'https://lupin.me/favicons/twitter.png',
-  'coolshell.cn': 'https://lupin.me/favicons/coolshell.png',
-  'vercel.com': 'https://lupin.me/favicons/vercel.png',
-  'nextjs.org': 'https://lupin.me/favicons/nextjs.png',
+    'https://aliyun.blog/favicons/twitter.png',
+  'coolshell.cn': 'https://aliyun.blog/favicons/coolshell.png',
+  'vercel.com': 'https://aliyun.blog/favicons/vercel.png',
+  'nextjs.org': 'https://aliyun.blog/favicons/nextjs.png',
 }
 
 function getPredefinedIconForUrl(url: string): string | undefined {
@@ -63,7 +63,7 @@ export async function GET(req: NextRequest) {
     return NextResponse.error()
   }
 
-  let iconUrl = 'https://lupin.me/favicon_blank.png'
+  let iconUrl = 'https://aliyun.blog/favicon_blank.png'
 
   try {
     const predefinedIcon = getPredefinedIconForUrl(url)
